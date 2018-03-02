@@ -1,0 +1,44 @@
+Final Project: A Japanese Temple
+
+Pujan Tandukar
+December 12, 2017
+
+A scene with a Japanese temple and shrine inside the temple.
+
+Notes: I made a simple Japanese Temple. My goal, initially, was to make a temple surrounded by sakura trees, but I wasn’t able to make trees. Instead, I made a function that generated a simple abstract fractal tree. The shrine inside the temple had some original materials that I had to make from photoshop. The pots on the right side of the temple, took a while to make. I used bezier curves to make these pots. The logs on the left side of the temple were made from a function that made cylinders. I’m happy about the pots that I could make and the interior in general. The whole temple was very tedious to make because it needed precise point mapping. I also added a simple gate in front of the temple. Even though it was a simple gate, it added a lot of more religious connotation to this project. 
+
+I am definitely going to add more to this project, even after I finish this class. 
+
+Key bindings:
+
+  M/m			Change the mode - Perspective / First Person
+  W/w			Move forward in first person mode
+  S/s			Move backward in first person mode
+  A/a			Turn left in first person mode
+  D/d			Turn right in first person mode
+
+  ————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+  ESC  			Exit
+  Up Arrow 		Increase azimuth by 5 degrees
+  Down Arrow		Decrease azimuth by 5 degrees
+  Left Arrow		Increase elevation by 5 degrees
+  Right Arrow		Decrease elevation by 5 degrees
+  0			Reset the value of Azimuth and Elevation
+  1			Increases the Field of view by 1
+  2			Decreases the Field of view by 1
+  3			Increase the Dimension by 1
+  4			Decrease the Dimension by 1
+  Page Down		Increase the Dimension by 1 — I don’t have Page Up/Down button
+  Page Up		Decrease the Dimension by 1 - so I added 3,4 to change also
+  L/l			Turn on / off light
+  [/]			Decrease/Increase the elevation of the light source
+  j/J			Decrease/Increase the value of ambient light
+  k/K			Decrease/Increase the value of diffuse light
+  f/F			Decrease/Increase the value of specular light
+  h/H			Decrease/Increase the value of emission level
+  g/G			Decrease/Increase the value of shininess
+  n/N			Toggle movement of the light source - move/stop
+  </>			Decrement/Increment the position of light source when stopped
+  F3			Change the distance of the light source from the objects in the scene - 3 or 5 units	
+
