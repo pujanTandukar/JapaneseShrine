@@ -1,13 +1,4 @@
-Final Project: A Japanese Temple
-
-Pujan Tandukar
-December 12, 2017
-
 A scene with a Japanese temple and shrine inside the temple.
-
-Notes: I made a simple Japanese Temple. My goal, initially, was to make a temple surrounded by sakura trees, but I wasn’t able to make trees. Instead, I made a function that generated a simple abstract fractal tree. The shrine inside the temple had some original materials that I had to make from photoshop. The pots on the right side of the temple, took a while to make. I used bezier curves to make these pots. The logs on the left side of the temple were made from a function that made cylinders. I’m happy about the pots that I could make and the interior in general. The whole temple was very tedious to make because it needed precise point mapping. I also added a simple gate in front of the temple. Even though it was a simple gate, it added a lot of more religious connotation to this project. 
-
-I am definitely going to add more to this project, even after I finish this class. 
 
 Key bindings:
 
